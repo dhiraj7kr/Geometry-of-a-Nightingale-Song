@@ -7,20 +7,16 @@
 
 Geometry of a Nightingale Song is a research / analysis project that studies the structure of nightingale vocalizations using geometric and topological data-analysis techniques. The goal is to transform audio recordings of nightingale song into geometric representations (point clouds, manifolds, graphs), then analyze and visualize the structure, motifs, and variability using dimensionality reduction, graph/geodesic methods, and topological summaries.
 
-This repository contains code, notebooks, scripts, and documentation to reproduce the analysis and visualizations, plus an accompanying video demonstration (replace the placeholder with your video link below).
+This repository contains code, notebooks, scripts, and documentation to reproduce the analysis and visualizations, plus an accompanying video demonstration.
 
 ---
 
 ## Video Demonstration
 
-Replace `VIDEO_URL_HERE` with the YouTube link (or direct URL) for your project's video. If you use YouTube, you can embed a clickable thumbnail like this:
-
-[![Watch the demo video](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](VIDEO_URL_HERE)
+[![Watch the demo video](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)]
 
 Or link directly:
 - Demo video: VIDEO_URL_HERE
-
-If you provide a YouTube URL I can insert the correct thumbnail and the VIDEO_ID automatically.
 
 ---
 
@@ -214,18 +210,6 @@ Use these notebooks both to reproduce figures and to iterate on methods.
 - Persistence diagrams and barcodes highlighting 0D (connected) and 1D (loop) features
 - A video animation that traverses a trajectory in embedding space while showing the corresponding waveform/spectrogram side-by-side
 
----
-
-## How to Add the Video Properly
-
-1. Host the video on YouTube or in the repo `results/video/` (large files in repo are discouraged).
-2. For YouTube:
-   - Replace `VIDEO_URL_HERE` in the Video Demonstration section with `https://www.youtube.com/watch?v=VIDEO_ID`.
-   - Optionally add a thumbnail link like `https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg`.
-3. For a local file:
-   - Add the video file under `results/video/`.
-   - In GitHub README, link to the file: `[Demo video](results/video/demo.mp4)` (GitHub will render a player for some video formats).
-4. Tell me the URL and I'll update the exact embed code.
 
 ---
 
