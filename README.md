@@ -16,7 +16,7 @@ This repository contains code, notebooks, scripts, and documentation to reproduc
 [![Watch the demo video](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)]
 
 Or link directly:
-- Demo video: VIDEO_URL_HERE
+- Demo video: LINK
 
 ---
 
