@@ -13,7 +13,7 @@ This repository contains code, notebooks, scripts, and documentation to reproduc
 
 ## Video Demonstration
 
-[![Watch the demo video](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)]
+[![Watch the demo video]([https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg](https://youtu.be/hlntM5h8w4s))]
 
 Or link directly:
 - Demo video: LINK
